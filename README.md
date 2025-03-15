@@ -1,6 +1,6 @@
 ## Tietokantaratkaisut Tehtävät
 
-[Week 1 Lecture Assignment](URL)
+[Week 1 Lecture Assignment](https://github.com/Wimmu/Tietokantaratkaisut/blob/master/src/Week1/Week%201%20Lecture%20Assignment.pdf)
 
 [Week 2 Lecture Assignment](URL)
 
