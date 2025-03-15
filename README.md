@@ -8,4 +8,4 @@
 
 [Week 6 Lecture Assignment](https://github.com/Wimmu/Tietokantaratkaisut/tree/master/src/Week6/main/java)
 
-[Week 7 Lecture Assignment](URL)
+[Week 7 Lecture Assignment](https://github.com/Wimmu/Tietokantaratkaisut/tree/master/src/Week7/main/resources/META-INF/main/java)
